@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Megh S. Joshi 👋
 
-<!--
-**MJoshi80/MJoshi80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year B.Tech – CSE (AI/ML) | VIT Bhopal University
 
-Here are some ideas to get you started:
+📚 I'm currently learning the fundamentals of computer science
+   and exploring tools that will shape my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I hope to learn:
+   I want to build strong programming skills, understand how software
+   is built from the ground up, and eventually contribute to real-world projects.
+
+🔧 Tools & Platforms I'm exploring:
+   - GitHub (version control & portfolio)
+   - LinkedIn (professional networking)
+   - HackerRank (coding practice)
+   - Kaggle (data science)
+
+📫 Reach me at: [megh.25bai10178@vitbhopal.ac.in]
+
+---
+⭐ This profile is part of my CSE0001 Digital Literacy Project at VIT Bhopal University.
