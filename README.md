@@ -1,6 +1,6 @@
 # Hi, I'm Megh S. Joshi 👋
 
-🎓 First Year B.Tech – CSE (AI/ML) | VIT Bhopal University
+🎓 Second Year B.Tech – CSE (AI/ML) | VIT Bhopal University
 
 📚 I'm currently learning the fundamentals of computer science
    and exploring tools that will shape my career.
